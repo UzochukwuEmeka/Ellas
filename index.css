@@ -1,0 +1,126 @@
+body {
+    /* background-color: #EDB900; */
+
+    background-repeat: no-repeat;
+}
+
+header {
+    background-color: indigo;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.logo {
+    font-family: 'Kanit', sans-serif;
+    font-weight: bolder;
+
+}
+.logo-img{
+width: 40px;
+height: 40px;
+overflow: hidden;
+}
+.logo-img img{
+    width: 100%;
+    height: 100%;
+}
+
+.header-links a {
+    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    color: seashell;
+    padding: 20px;
+
+}
+
+.imge {
+    width: 500px;
+
+}
+
+.imge img {
+    width: 100%;
+    height: 100%;
+}
+
+.main-section {
+    text-align: center;
+}
+
+.head-text {
+    padding-bottom: 100px;
+}
+
+.head-text h3 {
+    font-family: 'Kanit', sans-serif;
+    font-weight: 800;
+    font-size: 80px;
+    color: #01099C;
+    text-align: center;
+}
+
+.main-section a {
+    padding: 18px;
+    font-size: 18px;
+    font-family: 'Kanit', sans-serif;
+    background-color: #B30001;
+    color: #ffff;
+
+}
+
+table {
+    font-family: 'Kanit', sans-serif;
+  
+    border-collapse: collapse;
+    width: 80%;
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+.fa-brands {
+    font-size: 50px;
+}
+
+.section-one {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ella-image {
+    width: 500px;
+    overflow: hidden;
+
+}
+
+.ella-image img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.ella-text h1 {
+    font-size: 50px;
+    font-family: 'Kanit', sans-serif;
+
+}
+
+.a-tag{
+    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    color: seashell;
+    padding: 20px;
+    background-color: red; 
+}
+.about-section{
+    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
+font-size: 20px;
+}
